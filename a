@@ -1,0 +1,9 @@
+{
+id	integer($int32)
+bandName*	string
+maxLength: 255
+minLength: 0
+membersInBand*	integer($int32)
+votesFor*	integer($int32)
+votesAgainst*	integer($int32)
+}]
